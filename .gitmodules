@@ -1,0 +1,3 @@
+[submodule "XNNPACK"]
+	path = XNNPACK
+	url = git@github.com:google/XNNPACK.git
