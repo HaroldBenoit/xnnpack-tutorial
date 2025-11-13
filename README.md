@@ -1,5 +1,7 @@
 # XNNPACK Tutorial
 
+This repository contains the example code for the ["Writing CPU ML Kernels with XNNPACK" tutorial](https://haroldbenoit.com/blog/xnnpack_kernel/).
+
 ## Installation
 
 To get started, clone this repository along with its submodules:
